@@ -1,0 +1,25 @@
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body><doctvpe html="">
+    
+
+    <meta charset="utf=8">
+    <meta nome="viemport" content="width=device-width, initial-scale=1.0">
+    <style>
+        /*definiendo estilos para el encabezado */
+        h1 {
+            color:green;
+            font-size: 32px;
+        }
+  /*definendo estilos para el parrafo con la clase "destacndo"*/
+  .destacado {
+    color: green;
+    font-style: italic;
+   }
+</style>
+    <title> segundo html </title>
+
+
+     <h1>¡hola, mundo!</h1><h1>
+     <p class=".destacado">  este  es un parrafo de ejemplo.</p><p>
+<head>
+    <link rel="stylesheet" type="text/css"  hret="estilos.css">
+</head>
